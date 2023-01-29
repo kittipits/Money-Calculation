@@ -1,0 +1,16 @@
+C:\Users\kitti\source\repos\MoneyCalculation\MoneyCalculation\obj\Debug\MoneyCalculation.csproj.AssemblyReference.cache
+C:\Users\kitti\source\repos\MoneyCalculation\MoneyCalculation\obj\Debug\MoneyCalculation.csproj.SuggestedBindingRedirects.cache
+C:\Users\kitti\source\repos\MoneyCalculation\MoneyCalculation\obj\Debug\MainWindow.g.cs
+C:\Users\kitti\source\repos\MoneyCalculation\MoneyCalculation\obj\Debug\App.g.cs
+C:\Users\kitti\source\repos\MoneyCalculation\MoneyCalculation\obj\Debug\MoneyCalculation_MarkupCompile.cache
+C:\Users\kitti\source\repos\MoneyCalculation\MoneyCalculation\obj\Debug\MoneyCalculation_MarkupCompile.lref
+C:\Users\kitti\source\repos\MoneyCalculation\MoneyCalculation\bin\Debug\MoneyCalculation.exe.config
+C:\Users\kitti\source\repos\MoneyCalculation\MoneyCalculation\bin\Debug\MoneyCalculation.exe
+C:\Users\kitti\source\repos\MoneyCalculation\MoneyCalculation\bin\Debug\MoneyCalculation.pdb
+C:\Users\kitti\source\repos\MoneyCalculation\MoneyCalculation\obj\Debug\MainWindow.baml
+C:\Users\kitti\source\repos\MoneyCalculation\MoneyCalculation\obj\Debug\MoneyCalculation.g.resources
+C:\Users\kitti\source\repos\MoneyCalculation\MoneyCalculation\obj\Debug\MoneyCalculation.Properties.Resources.resources
+C:\Users\kitti\source\repos\MoneyCalculation\MoneyCalculation\obj\Debug\MoneyCalculation.csproj.GenerateResource.cache
+C:\Users\kitti\source\repos\MoneyCalculation\MoneyCalculation\obj\Debug\MoneyCalculation.csproj.CoreCompileInputs.cache
+C:\Users\kitti\source\repos\MoneyCalculation\MoneyCalculation\obj\Debug\MoneyCalculation.exe
+C:\Users\kitti\source\repos\MoneyCalculation\MoneyCalculation\obj\Debug\MoneyCalculation.pdb

@@ -1,0 +1,30 @@
+﻿<Window x:Class="MoneyCalculation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MoneyCalculation"
+        mc:Ignorable="d"
+        Title="Money Calculation" Height="450" Width="800" Background="White">
+    <Grid Background="#FFA4A4A4">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="68*"/>
+            <ColumnDefinition Width="149*"/>
+            <ColumnDefinition Width="583*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="txtExpense" TextWrapping="Wrap" Margin="83,109,300,259" FontSize="24" FontStyle="Normal" Grid.Column="2"/>
+        <TextBox x:Name="txtPrice" TextWrapping="Wrap" Margin="83,180,300,190" FontSize="24" FontStyle="Normal" Grid.Column="2"/>
+        <TextBlock HorizontalAlignment="Left" Height="36" Margin="113,41,0,0" TextWrapping="Wrap" Text="Income" VerticalAlignment="Top" Width="119" FontSize="24" Grid.ColumnSpan="2" Grid.Column="1"/>
+        <TextBlock HorizontalAlignment="Left" Height="36" Margin="113,108,0,0" TextWrapping="Wrap" Text="Expense" VerticalAlignment="Top" Width="119" FontSize="24" Grid.ColumnSpan="2" Grid.Column="1"/>
+        <TextBlock HorizontalAlignment="Left" Height="36" Margin="26,181,0,0" TextWrapping="Wrap" Text="The price of desired item" VerticalAlignment="Top" Width="274" FontSize="24" Grid.ColumnSpan="3"/>
+        <TextBlock HorizontalAlignment="Left" Height="36" Margin="311,39,0,0" TextWrapping="Wrap" Text="bath/day" VerticalAlignment="Top" Width="119" FontSize="24" Grid.Column="2"/>
+        <TextBlock HorizontalAlignment="Left" Height="36" Margin="311,108,0,0" TextWrapping="Wrap" Text="bath/day" VerticalAlignment="Top" Width="119" FontSize="24" Grid.Column="2"/>
+        <TextBlock HorizontalAlignment="Left" Height="36" Margin="311,180,0,0" TextWrapping="Wrap" Text="bath" VerticalAlignment="Top" Width="119" FontSize="24" Grid.Column="2"/>
+        <TextBlock HorizontalAlignment="Left" Height="36" Margin="26,356,0,0" TextWrapping="Wrap" Text="Youhave to collect money for" VerticalAlignment="Top" Width="328" FontSize="24" Grid.ColumnSpan="3"/>
+        <TextBlock x:Name="txtDay" HorizontalAlignment="Left" Height="36" Margin="143,356,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140" FontSize="24" Background="White" Grid.Column="2"/>
+        <TextBlock HorizontalAlignment="Left" Height="36" Margin="311,356,0,0" TextWrapping="Wrap" Text="days" VerticalAlignment="Top" Width="119" FontSize="24" Grid.Column="2"/>
+        <Button x:Name="calculate" Content="Calculate" Margin="104,252,321,107" BorderBrush="Black" Foreground="Black" Background="#FFC3FFC1" FontSize="24" Grid.Column="2" Click="Button_Click"/>
+        <TextBox x:Name="txtIncome" TextWrapping="Wrap" Margin="83,38,300,330" FontSize="24" FontStyle="Normal" Grid.Column="2"/>
+
+    </Grid>
+</Window>
